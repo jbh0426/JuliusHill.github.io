@@ -1,5 +1,6 @@
 # JuliusHill.github.io
 #Data Scientist
+images/profile.jpg
 
 ## Education
 -M.B.A., Data Analytics | Southern Methodist University, (_2023_)
