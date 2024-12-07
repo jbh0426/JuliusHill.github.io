@@ -2,8 +2,8 @@
 #Data Scientist
 
 ## Education
-**M.B.A., Data Analytics | Southern Methodist University, (_2023_)
-**B.S.B.A, Finance | East Carolina University(_2007_)
+-M.B.A., Data Analytics | Southern Methodist University, (_2023_)
+-B.S.B.A, Finance | East Carolina University(_2007_)
 
 ##Work Experience
 **Bank Examiner @FDIC
