@@ -14,7 +14,7 @@ Manager @ General Nutrition Company
 Investment Analyst @ Citigroup
 Wealth Manager @ Merrill Lynch
 Investment Specialist @ USAA
-Financial COnsultant @ New York Life Insurance Company
+Financial Consultant @ New York Life Insurance Company
 
 #Projects
 
